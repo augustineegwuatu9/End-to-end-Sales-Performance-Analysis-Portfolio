@@ -21,7 +21,7 @@ This project answers these questions using data.
 ## 🛠 Tools & Technologies
 - Python (Pandas for data cleaning & transformation)
 - SQL-style analysis (aggregation & segmentation)
-- Tableau (interactive dashboard)
+- Tableau (data visualization & interactive dashboard)
 
 ---
 
@@ -56,7 +56,17 @@ This project answers these questions using data.
 
 ## 📸 Dashboard Preview
 
-![Dashboard](dashboard/tableau_dashboard.png)
+![Sales Dashboard](dashboard/tableau_dashboard.png)
+
+---
+
+## 💡 Business Impact
+
+This analysis enables businesses to:
+- Identify high-value customers and improve retention strategies
+- Focus marketing efforts on top-performing regions
+- Optimize product offerings based on revenue contribution
+- Make data-driven decisions to increase profitability
 
 ---
 
